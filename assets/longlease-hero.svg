@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 1013" role="img" aria-labelledby="title desc">
+<title id="title">Lagos property opportunities</title><desc id="desc">A modern Lagos-inspired skyline with completed towers, buildings under construction, cranes and tropical greenery at golden hour.</desc>
+<defs>
+ <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#7899bd"/><stop offset=".55" stop-color="#e6b987"/><stop offset="1" stop-color="#263d38"/></linearGradient>
+ <linearGradient id="glass" x2="1" y2="1"><stop stop-color="#243e4b"/><stop offset=".5" stop-color="#64818b"/><stop offset="1" stop-color="#182f39"/></linearGradient>
+ <linearGradient id="tower" x2="1"><stop stop-color="#d7d8d0"/><stop offset=".48" stop-color="#f2eee2"/><stop offset="1" stop-color="#9da9a6"/></linearGradient>
+ <linearGradient id="glow" x2="0" y2="1"><stop stop-color="#f7d9a2" stop-opacity=".75"/><stop offset="1" stop-color="#e8a95f" stop-opacity="0"/></linearGradient>
+ <pattern id="windows" width="34" height="42" patternUnits="userSpaceOnUse"><rect x="5" y="5" width="22" height="29" fill="#304c58"/><path d="M5 7h22" stroke="#b9c8c6" stroke-opacity=".35" stroke-width="2"/></pattern>
+ <pattern id="warmwindows" width="38" height="44" patternUnits="userSpaceOnUse"><rect x="7" y="6" width="23" height="30" fill="#d9a66e"/><path d="M7 8h23" stroke="#fff0cb" stroke-opacity=".6" stroke-width="2"/></pattern>
+</defs>
+<rect width="1800" height="1013" fill="url(#sky)"/><circle cx="1330" cy="240" r="180" fill="url(#glow)"/>
+<!-- distant skyline --><g opacity=".78" fill="#536b70"><path d="M0 660V490h80v-60h60v230H0M120 690V540h55V380h85v310M1510 700V510h70V400h95v300M1660 700V550h55v-95h85v245"/></g>
+<!-- left glass tower --><path d="M315 730V260l42-35h188l42 35v470z" fill="url(#glass)" stroke="#d1d4ca" stroke-width="5"/><path d="M357 225h188v505H357z" fill="url(#windows)" opacity=".88"/><path d="M315 260h272M315 730h272" stroke="#d4d7d0" stroke-width="8"/>
+<!-- construction left --><path d="M65 755V475h220v280" fill="#697a78" stroke="#d1d0c5" stroke-width="6"/><path d="M65 520h220M65 575h220M65 630h220M65 685h220M115 475v280M185 475v280M250 475v280" stroke="#c5c9bd" stroke-width="7"/><path d="M20 400h390M95 400v-45m0 0 45 45M360 400v-45" fill="none" stroke="#b97e39" stroke-width="7"/><path d="M95 355h270" stroke="#b97e39" stroke-width="8"/>
+<!-- central premium tower --><path d="M625 825V150l80-70h360l80 70v675z" fill="url(#tower)" stroke="#f3eee2" stroke-width="8"/><path d="M705 150h360v675H705z" fill="url(#windows)" opacity=".75"/><path d="M625 150h520M625 825h520" stroke="#f8f0df" stroke-width="12"/><path d="M965 90v735" stroke="#a66d3e" stroke-width="28"/><path d="M680 230h450M680 325h450M680 420h450M680 515h450M680 610h450M680 705h450" stroke="#f7f0df" stroke-width="12"/>
+<!-- balconies right of tower --><g fill="#e6e3d9" stroke="#f7f2e8" stroke-width="5"><path d="M1060 190h170v48h-170zM1060 285h170v48h-170zM1060 380h170v48h-170zM1060 475h170v48h-170zM1060 570h170v48h-170zM1060 665h170v48h-170z"/></g><g stroke="#526b70" stroke-width="5"><path d="M1070 235h150M1070 330h150M1070 425h150M1070 520h150M1070 615h150M1070 710h150"/></g>
+<!-- right mid-rise and construction --><path d="M1260 770V440h180v330z" fill="#c8c9bd" stroke="#eee8d9" stroke-width="5"/><path d="M1280 465h140v305" fill="url(#warmwindows)"/><path d="M1460 770V535h200v235z" fill="#596e72" stroke="#c9c9bc" stroke-width="5"/><path d="M1480 550h160v220" fill="url(#windows)"/><path d="M1510 500h300M1580 500v-55m0 0 50 55" stroke="#b97e39" stroke-width="7" fill="none"/>
+<!-- greenery and street --><path d="M0 790q250-70 460 5t430-8 450 8 460-5v223H0z" fill="#183e32"/><path d="M0 875q350-80 700 5t700-10 400 0v143H0z" fill="#102b25"/>
+<g fill="#275a3d"><circle cx="120" cy="830" r="95"/><circle cx="245" cy="850" r="80"/><circle cx="450" cy="850" r="105"/><circle cx="1360" cy="850" r="105"/><circle cx="1570" cy="840" r="100"/><circle cx="1730" cy="850" r="95"/></g>
+<g stroke="#8c744f" stroke-width="14" fill="none"><path d="M250 910q-20-115 5-190M250 755q-70-80-115-60M250 755q65-95 120-80M1450 920q-10-130 20-200M1470 740q-70-75-125-60M1470 740q75-95 135-75"/></g>
+<g fill="#4b8050"><path d="M0 840q80-100 160-40-80 10-160 40M190 840q60-100 130-50-70 5-130 50M1370 835q60-100 130-45-70 5-130 45M1530 840q70-100 140-45-70 5-140 45"/></g>
+<rect width="1800" height="1013" fill="none" stroke="#fff" stroke-opacity=".12" stroke-width="8"/>
+</svg>
